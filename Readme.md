@@ -1,5 +1,9 @@
 # MongoDB Node.js Project
 
+## Task link
+
+https://docs.google.com/document/d/1bXs1DkwBBIqVdj2QIsmlVM_O-jG3_qwyvfXzVfCsSSM/edit?tab=t.0
+
 ## Overview
 A Node.js application demonstrating MongoDB integration and database operations.
 
@@ -50,7 +54,7 @@ MIT
 
 ## API Documentation
 
-See the https://documenter.getpostman.com/view/50347502/2sB3dJzYDg for detailed information on the modules and functions used in this project.
+See the https://documenter.getpostman.com/view/50347502/2sB3dLTWkX for detailed information on the modules and functions used in this project.
 
 ## Deployment link
 

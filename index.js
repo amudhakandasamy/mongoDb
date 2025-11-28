@@ -35,8 +35,6 @@ app.use("/api/recipe", recipeRoute);
 
 const port = process.env.PORT || 5000;
 
-
-
 //server starting logic
 
 app.listen(port, () => {
